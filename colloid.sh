@@ -10,7 +10,7 @@ error()   { echo -e "${RED}[error]${NC} $1"; exit 1; }
 # Nombres y Rutas
 THEME_BASE="Noctalia-Colloid"
 REAL_FOLDER="Noctalia-Colloid-Dark"
-ICONS_DIR="$HOME/.icons"
+ICONS_DIR="$HOME/.local/share/icons"
 NOCTALIA_DIR="$HOME/.config/noctalia"
 TEMPLATES_DIR="$NOCTALIA_DIR/templates"
 THEME_DIR="$ICONS_DIR/$REAL_FOLDER"
