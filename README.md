@@ -8,7 +8,7 @@ Dynamic icons for GTK file managers (Nemo, Thunar, Nautilus, Caja). Estos script
 ![Colloid Preview](img/colloid-dark.png)
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/ezequielgk/noctalia-dynamic-icons/main/colloid.sh | bash
+curl -fsSL https://raw.githubusercontent.com/shalakushka1/noctalia-dynamic-icons/main/colloid.sh | bash
 ```
 
 ---
