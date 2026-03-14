@@ -13,6 +13,6 @@ curl -fsSL https://raw.githubusercontent.com/shalakushka1/noctalia-dynamic-icons
 
 ---
 
-## 🛠️ Requisitos
+## 🛠️ Requirements
 
 * Compatible File Managers: Nemo, Thunar, Nautilus, or Caja.
