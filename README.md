@@ -1,6 +1,6 @@
 # noctalia-dynamic-icons
 
-Dynamic icons for GTK file managers (Nemo, Thunar, Nautilus, Caja). Estos scripts permiten aplicar iconos dinámicos de forma sencilla en diferentes entornos de escritorio.
+Dynamic icons for GTK file managers (Nemo, Thunar, Nautilus, Caja). These scripts allow for the easy application of dynamic icons across different desktop environments.
 
 ---
 
@@ -15,4 +15,4 @@ curl -fsSL https://raw.githubusercontent.com/shalakushka1/noctalia-dynamic-icons
 
 ## 🛠️ Requisitos
 
-* Gestores de archivos compatibles: Nemo, Thunar, Nautilus o Caja.
+* Compatible File Managers: Nemo, Thunar, Nautilus, or Caja.
